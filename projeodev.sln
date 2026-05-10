@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "projeodev", "projeodev\projeodev.csproj", "{4718108C-0C00-490F-BE60-DCBB89B67A34}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "dbRehber", "dbRehber\dbRehber.sqlproj", "{F150A036-A119-4253-B263-FD58E2197E50}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4718108C-0C00-490F-BE60-DCBB89B67A34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4718108C-0C00-490F-BE60-DCBB89B67A34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4718108C-0C00-490F-BE60-DCBB89B67A34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4718108C-0C00-490F-BE60-DCBB89B67A34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F150A036-A119-4253-B263-FD58E2197E50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F150A036-A119-4253-B263-FD58E2197E50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F150A036-A119-4253-B263-FD58E2197E50}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{F150A036-A119-4253-B263-FD58E2197E50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F150A036-A119-4253-B263-FD58E2197E50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F150A036-A119-4253-B263-FD58E2197E50}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38A8798F-E7F4-4F8E-8A4E-65A0A08B8DDA}
+	EndGlobalSection
+EndGlobal
